@@ -21,6 +21,9 @@ This project is a collaborative effort to support [South Saskatchewan Community 
 - Figma
 - Notion
 
+## Prototype Overview
+https://github.com/mazenabid/Signify-to-testify/assets/87061766/8ee559a4-b3fc-422e-bce0-739e8b152d32
+
 ## Getting Started
 Instructions on how to navigate the story map, access the prototype, and understand the WordPress setup.
 
