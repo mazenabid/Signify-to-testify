@@ -9,7 +9,7 @@ Build an interactive website for a non-charitable organization, Vital Signs.
 # South Saskatchewan Community Foundation Digital Engagement Project
 
 ## Overview
-This project is a collaborative effort to support [South Saskatchewan Community Foundation] , a non-profit organization based in Saskatchewan, Canada. Our goal was to enhance the charity's digital engagement through the development of an interactive story map, a dynamic prototype, and robust WordPress requirements.
+This project is a collaborative effort to support South Saskatchewan Community Foundation , a non-profit organization based in Saskatchewan, Canada. Our goal was to enhance the charity's digital engagement through the development of an interactive story map, a dynamic prototype, and robust WordPress requirements.
 
 ## Features
 - **Interactive Story Map**: Visualizes the charity's impact and activities in an engaging, narrative-driven format.
